@@ -1,5 +1,76 @@
 {
 	"packageData":
 	{
+		"/Game/Actor/UIActor":
+		{
+			"graphData":
+			{
+				"8B6A315E4D828958589C93A76911BCB9":
+				{
+					"commentData":
+					{
+						"05E8C0C742D76B3974B16BB72715225C":
+						{
+							"nodeGuids": [
+								"1308811C4E8077CA925DA3A659FCB63C",
+								"A6AA75474B16C3E89A72D8B46EEF1F37",
+								"735E7AB1468F04C2E5FD7EA03B844E7A",
+								"B5135DFC41387E24277AC2A5B239D4DC",
+								"001885944F860EDED51649AF7469925B"
+							],
+							"bHeader": 0,
+							"bInit": 1
+						},
+						"067AD70E43D7CC20C14DC5ACB1B1F9D8":
+						{
+							"nodeGuids": [
+								"6E001BA84411DA4C80C01FBBF842FDEF",
+								"1308811C4E8077CA925DA3A659FCB63C",
+								"A6AA75474B16C3E89A72D8B46EEF1F37",
+								"735E7AB1468F04C2E5FD7EA03B844E7A"
+							],
+							"bHeader": 0,
+							"bInit": 1
+						}
+					}
+				}
+			}
+		},
+		"/Game/Actor/ChoosableActor":
+		{
+			"graphData":
+			{
+				"FA3637F54CF6DD3E17AFE3B2E5037C69":
+				{
+					"commentData":
+					{
+						"EA771BDA4D2C9B9ECBD6828C23FD43AA":
+						{
+							"nodeGuids": [],
+							"bHeader": 0,
+							"bInit": 1
+						},
+						"1119A30541C537F0274EAE80BB1519F3":
+						{
+							"nodeGuids": [
+								"A682BF5246294BED4B11359FEB65EF23",
+								"1C509F4F4B572F73066170A09F7DA425",
+								"561D5FFB4FAA293E14CDE3AAA5D53815",
+								"CB15F3F948BFB30F1C9256A026323CEB",
+								"511E7067491F1464CB4B8A976CB60A88"
+							],
+							"bHeader": 0,
+							"bInit": 1
+						},
+						"4A8FB50244CE96C84E895CB3C7F793A5":
+						{
+							"nodeGuids": [],
+							"bHeader": 0,
+							"bInit": 1
+						}
+					}
+				}
+			}
+		}
 	}
 }
