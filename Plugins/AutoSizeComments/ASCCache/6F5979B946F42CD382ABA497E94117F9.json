@@ -71,6 +71,143 @@
 					}
 				}
 			}
+		},
+		"/Game/ThirdPerson/Blueprints/CROWD":
+		{
+			"graphData":
+			{
+				"0B57C71842653FF9C11726951A939EBE":
+				{
+					"commentData":
+					{
+						"9B2EFF28441C05E479CDF4815190B751":
+						{
+							"nodeGuids": [
+								"1D88D7E24AAB94CC9C640E989D4A867C",
+								"AA9DB5A1490BDB9F1C99FFAAF56D5E0C",
+								"CD11EAC8435D45A0785C7E985F409F31",
+								"BA683C074FC58E7715FB85AB653E7510",
+								"578377464FB5FFD2A6E9AB8F1447D31F",
+								"1D0D7D104206EC7BC94705A582BF83BA",
+								"0A26F02441344417EAB0ACA742696A36",
+								"BE5F86A54B09BA25473989949B0B4E1F",
+								"39CF9BA44715EE6B28D33A935DB91B82",
+								"75B365B444788869C984BCBE217185E4"
+							],
+							"bHeader": 0,
+							"bInit": 1
+						}
+					}
+				}
+			}
+		},
+		"/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter":
+		{
+			"graphData":
+			{
+				"2EF27BC649C3A6A2A3026DA2E43B989D":
+				{
+					"commentData":
+					{
+						"2CA851EE43232A8166417E871074FBE7":
+						{
+							"nodeGuids": [],
+							"bHeader": 0,
+							"bInit": 1
+						},
+						"A63813834121D07E2F17DE9BCC103816":
+						{
+							"nodeGuids": [],
+							"bHeader": 0,
+							"bInit": 1
+						},
+						"53E502014FB2603B6050B687EA0A9739":
+						{
+							"nodeGuids": [],
+							"bHeader": 0,
+							"bInit": 1
+						},
+						"1504756C4988F498D103A59938620775":
+						{
+							"nodeGuids": [],
+							"bHeader": 0,
+							"bInit": 1
+						},
+						"C54DE9094D1456A76D79CD9AAFC8153F":
+						{
+							"nodeGuids": [
+								"CEB2A4BA42302F0A95DE8D8B64C2D0FC",
+								"08DB68084FDC592AB6A5B6A8ED505257",
+								"00B46EB2428B32E50D82EBB3EE5938F3"
+							],
+							"bHeader": 0,
+							"bInit": 1
+						},
+						"6E5BD2634D91B7920C90AE91531DDC7B":
+						{
+							"nodeGuids": [
+								"881624784836E7331F3F208341DF5C75",
+								"32F8196B40B2B4E16CC929B13511AF7D",
+								"14B6A9504B492C185DD6A1B2E59D87E3",
+								"D5620DFD44878E24469AF58A4E1364DA"
+							],
+							"bHeader": 0,
+							"bInit": 1
+						},
+						"4D2E591946E62F959BD3019E6D84C9CF":
+						{
+							"nodeGuids": [
+								"64E9C22B447F65D4C6C73D839B075FF1",
+								"5C967783465C4C774A54178B3930AF7A",
+								"6D879140428C58AEC6CCC18CFFA47038",
+								"C1DA2A7B48C96906A815029D644B13BB"
+							],
+							"bHeader": 0,
+							"bInit": 1
+						},
+						"A5DA1CA0452806CD64716F90139E7C98":
+						{
+							"nodeGuids": [
+								"C61BA5464738F6858DF1149E1BABD6A7",
+								"923575934F032FFC963750843047EE25",
+								"AA9F1F0D474C83B2840EF0A26C04ED71",
+								"7974E3DA46081AC7A89A4FA117D397FF"
+							],
+							"bHeader": 0,
+							"bInit": 1
+						},
+						"841DA41F4ED067220A83E6A3775532E8":
+						{
+							"nodeGuids": [],
+							"bHeader": 0,
+							"bInit": 1
+						},
+						"29EE68A343C0DCEB8F12628C2DBABBC2":
+						{
+							"nodeGuids": [],
+							"bHeader": 0,
+							"bInit": 1
+						},
+						"7DD7835441CBE357EF3855B838BB6FBB":
+						{
+							"nodeGuids": [],
+							"bHeader": 0,
+							"bInit": 1
+						},
+						"AA5C2C834A5C948BDF222C9B157807C6":
+						{
+							"nodeGuids": [
+								"71DDF24D490D0996452D368D0C0685B4",
+								"02DA54F241F136A9A8A14793581A5DBC",
+								"48258B844C89548D4F150CAE19E0186D",
+								"19875EDE4C59B9C0630C6EA814CDC59C"
+							],
+							"bHeader": 0,
+							"bInit": 1
+						}
+					}
+				}
+			}
 		}
 	}
 }
