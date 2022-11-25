@@ -13,10 +13,10 @@ Saved
 *.xcodeproj
 *.xcworkspace
 
-Content/MetaHumans/Common/Face/Face_Archetype.uasset
-Content/MetaHumans/Geonwoo/Face/Geonwoo_FaceMesh.uasset
-Content/MetaHumans/Hosik/Face/Hosik_FaceMesh.uasset
-Content/MetaHumans/Hyeongman/Face/Hyeongman_FaceMesh.uasset
-Content/MetaHumans/Minji/Face/Minji_FaceMesh.uasset
-Content/MetaHumans/Soogyung/Face/Soogyung_FaceMesh.uasset
-Content/MetaHumans/Sujin/Face/Sujin_FaceMesh.uasset
+#Content/MetaHumans/Common/Face/Face_Archetype.uasset
+#Content/MetaHumans/Geonwoo/Face/Geonwoo_FaceMesh.uasset
+#Content/MetaHumans/Hosik/Face/Hosik_FaceMesh.uasset
+#Content/MetaHumans/Hyeongman/Face/Hyeongman_FaceMesh.uasset
+#Content/MetaHumans/Minji/Face/Minji_FaceMesh.uasset
+#Content/MetaHumans/Soogyung/Face/Soogyung_FaceMesh.uasset
+#Content/MetaHumans/Sujin/Face/Sujin_FaceMesh.uasset
