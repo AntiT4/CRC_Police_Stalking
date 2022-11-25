@@ -1,0 +1,7 @@
+Content/MetaHumans/Common/Face/Face_Archetype.uasset filter=lfs diff=lfs merge=lfs -text
+Content/MetaHumans/Geonwoo/Face/Geonwoo_FaceMesh.uasset filter=lfs diff=lfs merge=lfs -text
+Content/MetaHumans/Hosik/Face/Hosik_FaceMesh.uasset filter=lfs diff=lfs merge=lfs -text
+Content/MetaHumans/Hyeongman/Face/Hyeongman_FaceMesh.uasset filter=lfs diff=lfs merge=lfs -text
+Content/MetaHumans/Minji/Face/Minji_FaceMesh.uasset filter=lfs diff=lfs merge=lfs -text
+Content/MetaHumans/Soogyung/Face/Soogyung_FaceMesh.uasset filter=lfs diff=lfs merge=lfs -text
+Content/MetaHumans/Sujin/Face/Sujin_FaceMesh.uasset filter=lfs diff=lfs merge=lfs -text
