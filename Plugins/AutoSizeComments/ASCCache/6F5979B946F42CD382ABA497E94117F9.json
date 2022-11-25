@@ -105,6 +105,24 @@
 					}
 				}
 			}
+		},
+		"/Game/UI/01_Stalking/S3-2-2Select":
+		{
+			"graphData":
+			{
+				"E494A52647C4A343A82A16ACDD296E49":
+				{
+					"commentData":
+					{
+						"F136097D41C5F8F65AF8EDABCE20C95E":
+						{
+							"nodeGuids": [],
+							"bHeader": 0,
+							"bInit": 1
+						}
+					}
+				}
+			}
 		}
 	}
 }
