@@ -57,6 +57,28 @@
 					}
 				}
 			}
+		},
+		"/Game/VR/VR_Pawn":
+		{
+			"graphData":
+			{
+				"9B54FF2C411B66FD5C8068A78F54F97A":
+				{
+					"commentData":
+					{
+						"87CB44144D9883017E4B199FD1202ACC":
+						{
+							"nodeGuids": [
+								"9E80E23B4549930D3AF3E89E0DA8C520",
+								"D10BB3AD460229D20DDD1EB298DB846A",
+								"93C4BC104280B72ADF6169A7A7EB0204"
+							],
+							"bHeader": 0,
+							"bInit": 1
+						}
+					}
+				}
+			}
 		}
 	}
 }
