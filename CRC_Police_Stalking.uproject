@@ -141,6 +141,10 @@
 				"Win64",
 				"Mac"
 			]
+		},
+		{
+			"Name": "SunPosition",
+			"Enabled": true
 		}
 	]
 }
