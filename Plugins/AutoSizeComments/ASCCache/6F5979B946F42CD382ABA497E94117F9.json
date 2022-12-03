@@ -580,6 +580,44 @@
 					}
 				}
 			}
+		},
+		"/Game/VR/VR_Pawn":
+		{
+			"graphData":
+			{
+				"C767A08C4C5EBAA29385C8864E1B76DA":
+				{
+					"commentData":
+					{
+						"19071CF24EA05614A7245EAB3F24003E":
+						{
+							"nodeGuids": [
+								"6D4D7A1A443569E43B37D891A15977D3"
+							],
+							"bHeader": 0,
+							"bInit": 1
+						}
+					}
+				}
+			}
+		},
+		"/Game/UI/01_Stalking/S2_Select":
+		{
+			"graphData":
+			{
+				"731739914B67F7F8471723B9F411A175":
+				{
+					"commentData":
+					{
+						"74D9016547CA3F75A874C4B5D93B5A65":
+						{
+							"nodeGuids": [],
+							"bHeader": 0,
+							"bInit": 1
+						}
+					}
+				}
+			}
 		}
 	}
 }
