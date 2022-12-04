@@ -1,60 +1,6 @@
 {
 	"packageData":
 	{
-		"/Game/Sounds/Ambience/Smash/as_ch_DoorSmashing":
-		{
-			"graphData":
-			{
-				"3A1F224545FAE356EBC19E8A5D367529":
-				{
-					"commentData":
-					{
-						"DB1BC5394DD20DD6C70D92A8DC4792F4":
-						{
-							"nodeGuids": [
-								"7050F0974B3875EFF4F18092B5E758B6"
-							],
-							"bHeader": 0,
-							"bInit": 1
-						},
-						"315CED1048542FDF9073B59268FF7D5F":
-						{
-							"nodeGuids": [
-								"40C114324DAED5985E62179EB014FC45",
-								"FFE4E8A748438E784B399F842A77C9E9",
-								"7BAA21AF4B7885A50A476B864DFB7FFD",
-								"C0F0F35F456797B0C618D6B6094A9066"
-							],
-							"bHeader": 0,
-							"bInit": 1
-						},
-						"B72D239C4176A4BD033D2B85822F273C":
-						{
-							"nodeGuids": [
-								"17C92A6042DE533DA60AC7943FEE21DA",
-								"2CDB0CD44CA91EC9EAF40DABBAE16888",
-								"5BEB3E4C4CB449F84576EBB318398E96",
-								"99B59BFC4DAA39E8861A6290E4B9E830",
-								"ECF9B0514D3A5F226F959D86DDBCFFCC",
-								"5F0A05F24BA974A177F777BA3289CB5E",
-								"2655B96F46CAB30CC7D0ADA703F2E38B"
-							],
-							"bHeader": 0,
-							"bInit": 1
-						},
-						"A6281C254B520F3297335592B3899285":
-						{
-							"nodeGuids": [
-								"7BF1B6BC427ADAD97A9E909662A74A0F",
-								"EE44BD0A4385F1A8DD0D2885F3F338ED"
-							],
-							"bHeader": 0,
-							"bInit": 1
-						}
-					}
-				}
-			}
-		},
 		"/Game/NPCCharacters/CharacterBlueprints/MetaHumans/Crowd/BP_crowd4":
 		{
 			"graphData":
@@ -630,6 +576,19 @@
 						"F136097D41C5F8F65AF8EDABCE20C95E":
 						{
 							"nodeGuids": [],
+							"bHeader": 0,
+							"bInit": 1
+						},
+						"D33F261946B21C73096667AC95B2CCEE":
+						{
+							"nodeGuids": [
+								"C859C10246A74EB673F5F0BE22441022",
+								"C334428647374AA94369648E128387D4",
+								"BA05378843C51ECB99E55285BBF4757F",
+								"FE9A24294184EB956FDA9986D6BD0F3E",
+								"5964E05745D27A987867F1B88CB7CA91",
+								"E8A1AE0F433C2D7797DBFDA0FDDB9E56"
+							],
 							"bHeader": 0,
 							"bInit": 1
 						}
