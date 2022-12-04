@@ -866,10 +866,7 @@
 						},
 						"760CF0CE412BC324B0EE6C9995B22D61":
 						{
-							"nodeGuids": [
-								"5976D2DE42DAF2BCC538F39E8E42FCB7",
-								"3CCFB98D4ADE5A9910688BAEF2022633"
-							],
+							"nodeGuids": [],
 							"bHeader": 0,
 							"bInit": 1
 						}
