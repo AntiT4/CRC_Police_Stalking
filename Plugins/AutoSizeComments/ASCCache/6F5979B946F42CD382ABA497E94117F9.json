@@ -580,6 +580,157 @@
 					}
 				}
 			}
+		},
+		"/Game/VR/VR_Pawn":
+		{
+			"graphData":
+			{
+				"C767A08C4C5EBAA29385C8864E1B76DA":
+				{
+					"commentData":
+					{
+						"19071CF24EA05614A7245EAB3F24003E":
+						{
+							"nodeGuids": [
+								"6D4D7A1A443569E43B37D891A15977D3"
+							],
+							"bHeader": 0,
+							"bInit": 1
+						}
+					}
+				}
+			}
+		},
+		"/Game/UI/01_Stalking/S2_Select":
+		{
+			"graphData":
+			{
+				"731739914B67F7F8471723B9F411A175":
+				{
+					"commentData":
+					{
+						"74D9016547CA3F75A874C4B5D93B5A65":
+						{
+							"nodeGuids": [],
+							"bHeader": 0,
+							"bInit": 1
+						}
+					}
+				}
+			}
+		},
+		"/Game/Maps/01_Stalking/Outside_level/Sound":
+		{
+			"graphData":
+			{
+				"DE330D54435C5E9833D3AB95D4937B61":
+				{
+					"commentData":
+					{
+						"35F3F6CF441125E93B1C02BB103DEF74":
+						{
+							"nodeGuids": [
+								"4269C0384D5C223951E2A0921EC71184",
+								"B63B8679440E44170AF7D1A14678D23C",
+								"C5E91F5940EAAD57C50214AFD8C0D56E",
+								"E8492D884ABB1FBE5D6185B93A6763A5"
+							],
+							"bHeader": 0,
+							"bInit": 1
+						}
+					}
+				}
+			}
+		},
+		"/Game/ThirdPerson/Blueprints/ABP_Stalking_CROWD":
+		{
+			"graphData":
+			{
+				"3532ECE446876F2F75111886798AA754":
+				{
+					"commentData":
+					{
+						"0DDF16CD49032B55D8019EB142AC07DD":
+						{
+							"nodeGuids": [
+								"0A4C78B24036BB85686B1EAB814A6B57",
+								"0969AA0B42B3AC116A3306A9FDE40B24",
+								"A1F6FBB849204FE03CE86E93EADCE14B",
+								"6837B08A4E7899BB1768AD8F14D06AF3",
+								"5D2C7F784BE159FE437D00BD9E912486",
+								"11058BBB487E4CAAFCA95CB0D1CE88F9",
+								"2668F818499D8890253FF6A174105833",
+								"5914735B425C5886B8245692A33A307A",
+								"05BAA8404AB700578BD4A0AE567A121D",
+								"8C835C0F421B12B0E7B03090F5565993"
+							],
+							"bHeader": 0,
+							"bInit": 1
+						}
+					}
+				}
+			}
+		},
+		"/Game/ThirdPerson/Blueprints/CROWD":
+		{
+			"graphData":
+			{
+				"0B57C71842653FF9C11726951A939EBE":
+				{
+					"commentData":
+					{
+						"9B2EFF28441C05E479CDF4815190B751":
+						{
+							"nodeGuids": [
+								"1D88D7E24AAB94CC9C640E989D4A867C",
+								"AA9DB5A1490BDB9F1C99FFAAF56D5E0C",
+								"CD11EAC8435D45A0785C7E985F409F31",
+								"BA683C074FC58E7715FB85AB653E7510",
+								"578377464FB5FFD2A6E9AB8F1447D31F",
+								"1D0D7D104206EC7BC94705A582BF83BA",
+								"0A26F02441344417EAB0ACA742696A36",
+								"BE5F86A54B09BA25473989949B0B4E1F",
+								"39CF9BA44715EE6B28D33A935DB91B82",
+								"75B365B444788869C984BCBE217185E4"
+							],
+							"bHeader": 0,
+							"bInit": 1
+						}
+					}
+				}
+			}
+		},
+		"/Game/NPCCharacters/CharacterBlueprints/MetaHumans/Crowd/BP_crowd1":
+		{
+			"graphData":
+			{
+				"B120F8A14E4142DBB0DEBFB2F0D96F47":
+				{
+					"commentData":
+					{
+						"2A7A1276497E7A232CC6EFA872E2DFE1":
+						{
+							"nodeGuids": [
+								"5755DB484A68297AFC83F6A927623927",
+								"904AE6664C30CCD457B5A881801AEB97",
+								"E83AD603421D813CA4448B8F52638A06",
+								"12C8479141FA5F71B58FAFB661A1B825",
+								"8BA303854C4980108E6A519B44DF9395",
+								"F9888C1C4C3BD37C51A5C181BCFC6709",
+								"0997F8DE46348BBBD3E02290D0E0FCA0",
+								"FB8FC1D642C446AFA3AC9093A3836E78",
+								"FA719EC64EA6B801CFACB2A9E80F06DB",
+								"69B6198049CD1B0314C03B8C1AF36760",
+								"E65E70F54AEF1EB91364DD9E7B1A990F",
+								"40FBDB254589BA04D3511381971921E3",
+								"4EBC312F4115B9E9DDE16BAD8E331288"
+							],
+							"bHeader": 0,
+							"bInit": 1
+						}
+					}
+				}
+			}
 		}
 	}
 }
